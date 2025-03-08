@@ -3448,7 +3448,7 @@ figure.highlight pre .javascript .function {
   display: none;
 }
 #page-header.not-top-img #nav {
-  background: rgba(255,255,255,0.8);
+  background: rgba(255,255,255,0.3);
   -webkit-box-shadow: 0 5px 6px -5px rgba(133,133,133,0.6);
   box-shadow: 0 5px 6px -5px rgba(133,133,133,0.6);
 }
